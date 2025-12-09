@@ -1,5 +1,5 @@
 function procurar(entradaU, entradaS){
-    fecth("../loaging.json").then(response => response.json()).then(data =>{
+    fecth("./loaging.json").then(response => response.json()).then(data =>{
         const Usuario = data.find((user) => user.usuario === entradaU && entradaS);
         if (Usuario == undefined){
             alert("usario ou senha incorretos")
@@ -9,4 +9,7 @@ function procurar(entradaU, entradaS){
     })
 }
 
-procurar (Usuario, senha);
+usuario = document.getElementById('usuario').value;
+senha = document.getElementById('senha').value;
+
+procurar (usuario, senha);
