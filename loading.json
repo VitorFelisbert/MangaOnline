@@ -1,0 +1,51 @@
+
+[
+    {
+"usuario":"joao",
+"senha": "12345678"
+    },
+    {
+"usuario":"maria",
+ "senha": "abcd1234"
+    },
+    {
+"usuario":"carlos", 
+"senha":"87654321"
+    },
+    {
+"usuario":"ana",  
+"senha": "senha123"
+    },
+    {
+"usuario":"pedro",
+"senha":  "qwerty12"
+    },
+    {
+"usuario":"lucas",
+ "senha": "pass2025"
+
+    },
+    {
+"usuario":"juliana",
+"senha":  "abc98765"
+    },
+    {
+
+"usuario":"fernando",
+"senha":  "13579246"
+
+    },
+    {
+
+"usuario":"patricia", 
+"senha": "senha001"
+
+    },
+    {
+
+"usuario":"roberto",
+"senha": "zxcasd12"
+      
+    }
+
+]

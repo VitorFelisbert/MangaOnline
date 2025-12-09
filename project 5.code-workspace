@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Project 5 parte 2/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
