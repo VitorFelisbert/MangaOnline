@@ -24,7 +24,7 @@ body{
     margin: auto;
     max-width: 50%;
     min-width: 20px;
-    background-image: linear-gradient(to top, rgb(255, 220, 220), rgb(85, 55, 216));
+    background-image: linear-gradient(to top, rgba(184, 0, 0, 0.849), rgb(76, 43, 226));
    border-radius: 20px;
   
 
