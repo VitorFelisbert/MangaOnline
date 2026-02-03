@@ -234,4 +234,15 @@ img:hover{
  }
 
  
- 
+ .mangs {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+ }
+
+ .notapopulares {
+    margin-top: auto;
+    background-color: #1a1919;
+    
+ }
